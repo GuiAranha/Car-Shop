@@ -1,16 +1,15 @@
-# 🚧 README em construção 🚧
+Car Shop
 
-<!-- Olá, Tryber!
+Projeto de Back-End realizado na Trybe, API com CRUD no MongoDB. O que foi realizado no projeto:
 
-Esse é apenas um arquivo inicial para o README do seu projeto.
+- Interfaces
+- Models
+- Services
+- Controllers
+- Testes
 
-É essencial que você preencha esse documento por conta própria, ok?
+Arquivos criados por mim:
 
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
+- app/src/*
 
-⚠️ IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
-
--->
+Index e docker fornecidos pela Trybe.
